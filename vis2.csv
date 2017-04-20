@@ -1,0 +1,495 @@
+id,activityType,startTime,actDistance,elevationGain,avgSpeed,avgHR,maxHR,steps,calories,activityMonth,activityDay,activityMonthName,activityDayName,activityLevel,activityMins
+0,Strength Training,2017-04-06 22:43:00,,,,119.0,163.0,,597.0,4,3,April,Thursday,Light,69.02
+1,Strength Training,2017-04-04 22:36:00,,,,117.0,155.0,,474.0,4,1,April,Tuesday,Light,54.37
+2,Strength Training,2017-04-02 22:46:00,,,,116.0,159.0,,601.0,4,6,April,Sunday,Light,72.2
+3,Strength Training,2017-03-28 23:02:00,,,,99.0,142.0,,257.0,3,1,March,Tuesday,Very Light,42.11
+4,Strength Training,2017-03-27 23:17:00,,,,120.0,165.0,,412.0,3,0,March,Monday,Light,45.42
+5,Strength Training,2017-03-18 19:11:00,,,,121.0,143.0,,397.0,3,5,March,Saturday,Light,42.14
+6,Strength Training,2017-03-17 21:17:00,,,,116.0,160.0,,378.0,3,4,March,Friday,Light,41.15
+7,Strength Training,2017-03-03 20:55:00,,,,107.0,150.0,,455.0,3,4,March,Friday,Very Light,65.18
+8,Strength Training,2017-03-01 21:42:00,,,,110.0,158.0,,648.0,3,2,March,Wednesday,Very Light,95.59
+9,Strength Training,2017-02-21 22:55:00,,,,116.0,170.0,,469.0,2,1,February,Tuesday,Light,64.53
+10,Strength Training,2017-02-19 22:49:00,,,,124.0,170.0,,585.0,2,6,February,Sunday,Light,73.34
+11,Running,2017-02-18 19:00:00,2.67,,8.48,159.0,174.0,3722.0,323.0,2,5,February,Saturday,Hard,23.28
+12,Strength Training,2017-02-14 21:07:00,,,,124.0,150.0,,462.0,2,1,February,Tuesday,Light,55.25
+13,Strength Training,2017-02-12 22:38:00,,,,115.0,160.0,,562.0,2,6,February,Sunday,Light,84.44
+14,Strength Training,2017-02-07 23:05:00,,,,128.0,155.0,,510.0,2,1,February,Tuesday,Light,54.26
+15,Strength Training,2017-02-05 22:56:00,,,,114.0,170.0,,451.0,2,6,February,Sunday,Light,64.59
+16,Running,2017-02-04 13:29:00,6.23,,9.09,159.0,178.0,8974.0,783.0,2,5,February,Saturday,Hard,56.58
+17,Strength Training,2017-02-03 20:43:00,,,,98.0,132.0,,331.0,2,4,February,Friday,Very Light,65.54
+18,Treadmill Running,2017-02-02 22:06:00,2.62,,9.23,151.0,170.0,3800.0,319.0,2,3,February,Thursday,Moderate,24.36
+19,Strength Training,2017-02-01 21:24:00,,,,104.0,145.0,,479.0,2,2,February,Wednesday,Very Light,84.11
+20,Strength Training,2017-01-30 18:36:00,,,,100.0,146.0,,398.0,1,0,January,Monday,Very Light,74.14
+21,Running,2017-01-28 21:23:00,4.25,,9.47,139.0,170.0,6522.0,475.0,1,5,January,Saturday,Moderate,41.38
+22,Strength Training,2017-01-27 21:07:00,,,,98.0,157.0,,283.0,1,4,January,Friday,Very Light,51.48
+23,Running,2017-01-26 22:13:00,2.45,,8.58,148.0,177.0,3460.0,274.0,1,3,January,Thursday,Moderate,22.02
+24,Strength Training,2017-01-24 21:52:00,,,,117.0,148.0,,521.0,1,1,January,Tuesday,Light,74.06
+25,Strength Training,2017-01-22 22:45:00,,,,126.0,171.0,,567.0,1,6,January,Sunday,Light,75.07
+26,Running,2017-01-21 17:26:00,6.23,,9.23,159.0,175.0,9114.0,789.0,1,5,January,Saturday,Hard,58.27
+27,Strength Training,2017-01-19 21:28:00,,,,119.0,169.0,,493.0,1,3,January,Thursday,Light,66.42
+28,Strength Training,2017-01-17 21:35:00,,,,126.0,169.0,,638.0,1,1,January,Tuesday,Light,76.41
+29,Strength Training,2017-01-15 22:44:00,,,,109.0,162.0,,443.0,1,6,January,Sunday,Very Light,72.57
+30,Strength Training,2017-01-14 20:56:00,,,,95.0,134.0,,492.0,1,5,January,Saturday,Very Light,106.49
+31,Cycling,2017-01-13 12:47:00,8.3,,7.7,139.0,171.0,,712.0,1,4,January,Friday,Moderate,64.43
+32,Strength Training,2017-01-12 18:29:00,,,,106.0,155.0,,421.0,1,3,January,Thursday,Very Light,70.14
+33,Running,2017-01-10 17:08:00,2.29,,9.08,162.0,180.0,3330.0,300.0,1,1,January,Tuesday,Hard,20.55
+34,Strength Training,2017-01-09 22:49:00,,,,113.0,152.0,,478.0,1,0,January,Monday,Very Light,68.35
+35,Cycling,2017-01-08 13:50:00,3.17,,9.9,137.0,169.0,,228.0,1,6,January,Sunday,Moderate,19.17
+36,Running,2017-01-08 13:22:00,2.89,,9.07,161.0,173.0,4148.0,388.0,1,6,January,Sunday,Hard,26.23
+37,Strength Training,2017-01-07 21:03:00,,,,97.0,135.0,,296.0,1,5,January,Saturday,Very Light,54.16
+38,Running,2017-01-06 13:46:00,3.11,,9.3,146.0,160.0,4604.0,385.0,1,4,January,Friday,Moderate,29.34
+39,Cycling,2017-01-06 13:25:00,3.67,,10.9,128.0,161.0,,214.0,1,4,January,Friday,Light,20.09
+40,Running,2017-01-05 09:23:00,1.58,,9.08,161.0,173.0,2294.0,222.0,1,3,January,Thursday,Hard,14.27
+41,Cycling,2017-01-05 08:54:00,4.91,,10.4,135.0,167.0,,344.0,1,3,January,Thursday,Moderate,28.26
+42,Strength Training,2017-01-04 22:56:00,,,,118.0,153.0,,500.0,1,2,January,Wednesday,Light,60.11
+43,Strength Training,2017-01-02 22:53:00,,,,114.0,160.0,,483.0,1,0,January,Monday,Light,62.07
+44,Cycling,2017-01-01 00:36:00,6.33,,6.7,129.0,170.0,,488.0,1,6,January,Sunday,Light,56.17
+45,Cycling,2016-12-27 22:35:00,2.98,,7.7,130.0,165.0,,267.0,12,1,December,Tuesday,Light,23.19
+46,Cycling,2016-12-27 13:45:00,4.11,,9.7,134.0,169.0,,300.0,12,1,December,Tuesday,Moderate,25.18
+47,Cycling,2016-12-27 09:38:00,3.36,,7.4,128.0,154.0,,292.0,12,1,December,Tuesday,Light,27.15
+48,Cycling,2016-12-25 17:09:00,4.13,,9.0,146.0,164.0,,379.0,12,6,December,Sunday,Moderate,27.4
+49,Cycling,2016-12-25 15:05:00,2.62,,5.5,149.0,163.0,,404.0,12,6,December,Sunday,Moderate,28.4
+50,Cycling,2016-12-25 14:14:00,8.16,,9.8,142.0,167.0,,635.0,12,6,December,Sunday,Moderate,49.49
+51,Strength Training,2016-12-23 17:48:00,,,,100.0,151.0,,335.0,12,4,December,Friday,Very Light,55.11
+52,Cycling,2016-12-22 01:06:00,6.79,,11.9,146.0,158.0,,470.0,12,3,December,Thursday,Moderate,34.08
+53,Cycling,2016-12-22 00:19:00,7.06,,9.2,144.0,163.0,,609.0,12,3,December,Thursday,Moderate,46.13
+54,Strength Training,2016-12-21 22:39:00,,,,101.0,153.0,,431.0,12,2,December,Wednesday,Very Light,71.38
+55,Strength Training,2016-12-20 22:12:00,,,,107.0,160.0,,547.0,12,1,December,Tuesday,Very Light,86.48
+56,Cycling,2016-12-20 14:27:00,4.33,,8.2,129.0,157.0,,353.0,12,1,December,Tuesday,Light,31.32
+57,Cycling,2016-12-20 12:30:00,3.46,,8.4,113.0,128.0,,206.0,12,1,December,Tuesday,Very Light,24.44
+58,Strength Training,2016-12-19 20:02:00,,,,111.0,157.0,,609.0,12,0,December,Monday,Very Light,86.53
+59,Cycling,2016-12-17 21:33:00,5.24,190.0,7.9,114.0,140.0,,309.0,12,5,December,Saturday,Light,39.42
+60,Cardio,2016-12-16 21:15:00,,,,116.0,126.0,,148.0,12,4,December,Friday,Light,16.17
+61,Treadmill Running,2016-12-16 20:27:00,2.01,13.0,12.51,128.0,155.0,3374.0,266.0,12,4,December,Friday,Light,25.46
+62,Strength Training,2016-12-15 22:43:00,,,,113.0,158.0,,592.0,12,3,December,Thursday,Very Light,78.13
+63,Cycling,2016-12-09 00:04:00,6.31,262.0,11.3,161.0,177.0,,511.0,12,4,December,Friday,Hard,33.24
+64,Strength Training,2016-12-08 21:17:00,,,,131.0,174.0,,564.0,12,3,December,Thursday,Light,57.48
+65,Cycling,2016-12-04 23:57:00,6.74,292.0,11.0,157.0,183.0,,538.0,12,6,December,Sunday,Hard,36.47
+66,Strength Training,2016-12-03 22:05:00,,,,120.0,157.0,,444.0,12,5,December,Saturday,Light,48.03
+67,Cardio,2016-12-02 03:10:00,,,,93.0,152.0,,87.0,12,4,December,Friday,Very Light,15.15
+68,Cycling,2016-12-01 19:23:00,4.99,180.0,8.8,127.0,166.0,,363.0,12,3,December,Thursday,Light,34.01
+69,Cycling,2016-12-01 18:27:00,4.1,52.0,6.8,109.0,123.0,,261.0,12,3,December,Thursday,Very Light,35.53
+70,Strength Training,2016-11-30 22:50:00,,,,113.0,161.0,,503.0,11,2,November,Wednesday,Very Light,68.46
+71,Cardio,2016-11-27 18:19:00,,,,82.0,106.0,,18.0,11,6,November,Sunday,Very Light,4.28
+72,Strength Training,2016-11-23 18:24:00,,,,115.0,156.0,,446.0,11,2,November,Wednesday,Light,57.02
+73,Running,2016-11-21 22:52:00,3.92,,10.48,130.0,157.0,,515.0,11,0,November,Monday,Light,42.18
+74,Strength Training,2016-11-08 21:33:00,,,,108.0,151.0,,659.0,11,1,November,Tuesday,Very Light,75.0
+75,Strength Training,2016-11-03 22:33:00,,,,107.0,148.0,,689.0,11,3,November,Thursday,Very Light,79.38
+76,Strength Training,2016-11-01 22:49:00,,,,113.0,146.0,,716.0,11,1,November,Tuesday,Very Light,74.3
+77,Strength Training,2016-10-30 23:48:00,,,,124.0,166.0,,772.0,10,6,October,Sunday,Light,68.29
+78,Strength Training,2016-10-28 21:46:00,,,,120.0,174.0,,755.0,10,4,October,Friday,Light,70.29
+79,Cardio,2016-10-26 23:06:00,,,,110.0,168.0,,1719.0,10,2,October,Wednesday,Very Light,187.54
+80,Running,2016-10-24 22:11:00,3.94,,12.51,119.0,165.0,,528.0,10,0,October,Monday,Light,50.4
+81,Strength Training,2016-10-23 21:34:00,,,,110.0,168.0,,735.0,10,6,October,Sunday,Very Light,81.18
+82,Strength Training,2016-10-22 06:27:00,,,,99.0,135.0,,431.0,10,5,October,Saturday,Very Light,59.11
+83,Running,2016-10-21 16:42:00,8.22,,8.46,145.0,169.0,,1046.0,10,4,October,Friday,Moderate,72.04
+84,Strength Training,2016-10-13 07:23:00,,,,116.0,153.0,,783.0,10,3,October,Thursday,Light,77.55
+85,Running,2016-10-12 07:15:00,2.0,,11.43,135.0,168.0,,303.0,10,2,October,Wednesday,Moderate,23.23
+86,Strength Training,2016-10-11 08:04:00,,,,128.0,165.0,,762.0,10,1,October,Tuesday,Light,64.11
+87,Strength Training,2016-10-09 06:15:00,,,,118.0,152.0,,737.0,10,6,October,Sunday,Light,71.29
+88,Strength Training,2016-10-06 08:32:00,,,,124.0,183.0,,548.0,10,3,October,Thursday,Light,48.38
+89,Strength Training,2016-10-04 07:38:00,,,,122.0,162.0,,894.0,10,1,October,Tuesday,Light,81.38
+90,Running,2016-10-03 07:57:00,0.99,,8.19,159.0,167.0,,137.0,10,0,October,Monday,Hard,8.12
+91,Strength Training,2016-09-30 08:24:00,,,,104.0,147.0,,527.0,9,4,September,Friday,Very Light,64.22
+92,Running,2016-09-28 08:31:00,1.1,,12.42,136.0,171.0,,183.0,9,2,September,Wednesday,Moderate,13.59
+93,Strength Training,2016-09-27 08:39:00,,,,121.0,156.0,,552.0,9,1,September,Tuesday,Light,51.18
+94,Running,2016-09-25 04:06:00,5.89,,8.13,161.0,177.0,,825.0,9,6,September,Sunday,Hard,48.23
+95,Running,2016-09-21 07:55:00,1.63,,8.11,143.0,164.0,,191.0,9,2,September,Wednesday,Moderate,13.23
+96,Strength Training,2016-09-20 07:23:00,,,,125.0,167.0,,859.0,9,1,September,Tuesday,Light,75.28
+97,Running,2016-09-18 06:57:00,2.59,,11.45,157.0,188.0,,502.0,9,6,September,Sunday,Hard,30.24
+98,Running,2016-09-15 03:03:00,2.62,,11.53,150.0,184.0,,481.0,9,3,September,Thursday,Moderate,31.12
+99,Strength Training,2016-09-13 08:12:00,,,,123.0,162.0,,735.0,9,1,September,Tuesday,Light,65.45
+100,Running,2016-09-10 18:32:00,3.15,164.0,9.1,,,4530.0,412.0,9,5,September,Saturday,Not Recorded,28.55
+101,Strength Training,2016-09-10 06:24:00,,,,101.0,148.0,,514.0,9,5,September,Saturday,Very Light,66.23
+102,Running,2016-09-08 06:59:00,2.8,,13.04,142.0,174.0,,515.0,9,3,September,Thursday,Moderate,36.37
+103,Running,2016-09-04 18:13:00,6.22,253.0,9.32,164.0,177.0,9212.0,827.0,9,6,September,Sunday,Hard,59.23
+104,Strength Training,2016-09-03 06:18:00,,,,113.0,175.0,,619.0,9,5,September,Saturday,Very Light,65.07
+105,Strength Training,2016-09-01 07:43:00,,,,105.0,145.0,,604.0,9,3,September,Thursday,Very Light,72.1
+106,Cardio,2016-08-31 05:42:00,,,,123.0,176.0,,598.0,8,2,August,Wednesday,Light,54.02
+107,Running,2016-08-28 19:02:00,2.39,85.0,9.34,,,3600.0,314.0,8,6,August,Sunday,Not Recorded,22.55
+108,Running,2016-08-27 03:29:00,3.85,,8.22,149.0,174.0,,493.0,8,5,August,Saturday,Moderate,32.12
+109,Cardio,2016-08-24 06:29:00,,,,125.0,165.0,,766.0,8,2,August,Wednesday,Light,66.42
+110,Running,2016-08-22 08:55:00,1.24,89.0,9.5,,,1834.0,156.0,8,0,August,Monday,Not Recorded,12.14
+111,Running,2016-08-19 18:25:00,0.79,3.0,11.2,,,1350.0,97.0,8,4,August,Friday,Not Recorded,8.57
+112,Cardio,2016-08-12 19:42:00,,,,125.0,150.0,,344.0,8,4,August,Friday,Light,30.08
+113,Running,2016-08-12 18:59:00,4.45,,9.19,142.0,163.0,,583.0,8,4,August,Friday,Moderate,41.27
+114,Cardio,2016-08-11 20:26:00,,,,113.0,157.0,,901.0,8,3,August,Thursday,Very Light,94.33
+115,Running,2016-08-09 20:55:00,3.91,,10.01,135.0,157.0,,503.0,8,1,August,Tuesday,Moderate,39.09
+116,Cardio,2016-08-08 21:35:00,,,,123.0,175.0,,389.0,8,0,August,Monday,Light,35.19
+117,Cardio,2016-08-08 20:36:00,,,,108.0,148.0,,452.0,8,0,August,Monday,Very Light,51.25
+118,Running,2016-08-06 20:46:00,2.8,,9.05,139.0,156.0,,346.0,8,5,August,Saturday,Moderate,25.24
+119,Cardio,2016-08-06 20:22:00,,,,111.0,147.0,,194.0,8,5,August,Saturday,Very Light,21.01
+120,Cardio,2016-08-06 19:55:00,,,,117.0,149.0,,244.0,8,5,August,Saturday,Light,23.56
+121,Running,2016-08-06 19:31:00,2.4,,9.39,134.0,155.0,,299.0,8,5,August,Saturday,Moderate,23.11
+122,Cardio,2016-08-05 20:39:00,,,,121.0,175.0,,926.0,8,4,August,Friday,Light,84.17
+123,Running,2016-08-03 20:51:00,3.61,,10.11,148.0,173.0,,559.0,8,2,August,Wednesday,Moderate,36.43
+124,Running,2016-08-03 20:41:00,0.72,,9.22,121.0,137.0,,70.0,8,2,August,Wednesday,Light,6.42
+125,Running,2016-08-02 21:54:00,0.87,,8.36,139.0,163.0,,100.0,8,1,August,Tuesday,Moderate,7.31
+126,Cardio,2016-08-02 20:35:00,,,,105.0,149.0,,661.0,8,1,August,Tuesday,Very Light,78.08
+127,Cardio,2016-07-30 20:35:00,,,,101.0,131.0,,134.0,7,5,July,Saturday,Very Light,17.11
+128,Cardio,2016-07-28 19:26:00,,,,114.0,167.0,,833.0,7,3,July,Thursday,Light,83.18
+129,Cardio,2016-07-27 21:17:00,,,,124.0,152.0,,483.0,7,2,July,Wednesday,Light,41.1
+130,Running,2016-07-26 20:41:00,3.97,,8.54,147.0,166.0,,541.0,7,1,July,Tuesday,Moderate,35.2
+131,Cardio,2016-07-25 20:47:00,,,,112.0,147.0,,717.0,7,0,July,Monday,Very Light,74.11
+132,Cardio,2016-07-23 20:13:00,,,,123.0,178.0,,1341.0,7,5,July,Saturday,Light,116.35
+133,Cardio,2016-07-22 20:50:00,,,,111.0,135.0,,359.0,7,4,July,Friday,Very Light,37.41
+134,Cardio,2016-07-20 21:06:00,,,,121.0,157.0,,710.0,7,2,July,Wednesday,Light,63.28
+135,Cardio,2016-07-19 20:26:00,,,,116.0,166.0,,1000.0,7,1,July,Tuesday,Light,97.07
+136,Cardio,2016-07-18 20:51:00,,,,124.0,163.0,,860.0,7,0,July,Monday,Light,73.57
+137,Cardio,2016-07-16 20:41:00,,,,113.0,154.0,,651.0,7,5,July,Saturday,Very Light,65.58
+138,Cardio,2016-07-15 20:22:00,,,,108.0,176.0,,812.0,7,4,July,Friday,Very Light,95.06
+139,Cardio,2016-07-14 20:39:00,,,,123.0,183.0,,962.0,7,3,July,Thursday,Light,83.44
+140,Running,2016-07-13 21:17:00,3.05,,10.51,141.0,159.0,,476.0,7,2,July,Wednesday,Moderate,33.07
+141,Cardio,2016-07-13 20:31:00,,,,94.0,142.0,,200.0,7,2,July,Wednesday,Very Light,29.46
+142,Cardio,2016-07-12 20:46:00,,,,118.0,165.0,,539.0,7,1,July,Tuesday,Light,50.1
+143,Cardio,2016-07-11 21:19:00,,,,110.0,143.0,,241.0,7,0,July,Monday,Very Light,25.48
+144,Cardio,2016-07-11 20:42:00,,,,105.0,144.0,,165.0,7,0,July,Monday,Very Light,19.31
+145,Running,2016-07-11 20:29:00,1.4,,9.11,133.0,153.0,,163.0,7,0,July,Monday,Moderate,12.5
+146,Cardio,2016-07-09 18:35:00,,,,118.0,158.0,,887.0,7,5,July,Saturday,Light,82.42
+147,Cardio,2016-07-08 18:41:00,,,,112.0,133.0,,587.0,7,4,July,Friday,Very Light,60.05
+148,Cardio,2016-07-07 11:05:00,,,,122.0,175.0,,1250.0,7,3,July,Thursday,Light,109.19
+149,Cardio,2016-07-06 21:50:00,,,,93.0,142.0,,407.0,7,2,July,Wednesday,Very Light,61.54
+150,Cardio,2016-07-05 20:10:00,,,,100.0,134.0,,674.0,7,1,July,Tuesday,Very Light,86.26
+151,Cardio,2016-07-05 18:50:00,,,,113.0,160.0,,674.0,7,1,July,Tuesday,Very Light,67.58
+152,Cardio,2016-07-04 20:42:00,,,,118.0,157.0,,1405.0,7,0,July,Monday,Light,130.45
+153,Cardio,2016-07-02 13:20:00,,,,113.0,146.0,,1046.0,7,5,July,Saturday,Very Light,107.08
+154,Cardio,2016-06-27 20:32:00,,,,124.0,181.0,,1567.0,6,0,June,Monday,Light,133.39
+155,Cardio,2016-06-25 19:58:00,,,,108.0,157.0,,1123.0,6,5,June,Saturday,Very Light,123.22
+156,Cardio,2016-06-17 18:35:00,,,,106.0,174.0,,693.0,6,4,June,Friday,Very Light,80.06
+157,Cardio,2016-06-16 21:05:00,,,,104.0,141.0,,434.0,6,3,June,Thursday,Very Light,51.47
+158,Cardio,2016-06-13 21:30:00,,,,123.0,174.0,,647.0,6,0,June,Monday,Light,56.21
+159,Cardio,2016-06-12 07:40:00,,,,135.0,166.0,,995.0,6,6,June,Sunday,Moderate,73.41
+160,Cardio,2016-06-11 19:04:00,,,,114.0,147.0,,951.0,6,5,June,Saturday,Light,94.03
+161,Cardio,2016-06-10 18:14:00,,,,110.0,166.0,,953.0,6,4,June,Friday,Very Light,102.25
+162,Cardio,2016-06-09 20:20:00,,,,116.0,168.0,,1215.0,6,3,June,Thursday,Light,116.46
+163,Cardio,2016-06-06 20:43:00,,,,128.0,170.0,,1042.0,6,0,June,Monday,Light,84.32
+164,Cardio,2016-06-04 19:40:00,,,,109.0,166.0,,948.0,6,5,June,Saturday,Very Light,101.49
+165,Cardio,2016-06-04 17:04:00,,,,128.0,174.0,,1556.0,6,5,June,Saturday,Light,126.03
+166,Cardio,2016-06-02 20:44:00,,,,121.0,161.0,,1263.0,6,3,June,Thursday,Light,112.55
+167,Cardio,2016-05-28 20:30:00,,,,112.0,157.0,,731.0,5,5,May,Saturday,Very Light,75.2
+168,Cardio,2016-05-27 19:34:00,,,,106.0,184.0,,1767.0,5,4,May,Friday,Very Light,203.57
+169,Cardio,2016-05-24 22:21:00,,,,112.0,131.0,,193.0,5,1,May,Tuesday,Very Light,20.05
+170,Cardio,2016-05-23 20:40:00,,,,116.0,166.0,,1315.0,5,0,May,Monday,Light,125.48
+171,Cardio,2016-05-21 19:49:00,,,,111.0,160.0,,1044.0,5,5,May,Saturday,Very Light,109.52
+172,Cardio,2016-05-20 20:09:00,,,,109.0,156.0,,754.0,5,4,May,Friday,Very Light,82.27
+173,Cardio,2016-05-20 18:58:00,,,,97.0,148.0,,180.0,5,4,May,Friday,Very Light,25.05
+174,Cardio,2016-05-19 20:10:00,,,,106.0,156.0,,548.0,5,3,May,Thursday,Very Light,62.4
+175,Cardio,2016-05-18 20:22:00,,,,109.0,170.0,,815.0,5,2,May,Wednesday,Very Light,89.09
+176,Cardio,2016-05-17 19:09:00,,,,122.0,147.0,,284.0,5,1,May,Tuesday,Light,25.01
+177,Cardio,2016-05-16 20:47:00,,,,117.0,182.0,,1178.0,5,0,May,Monday,Light,112.45
+178,Cardio,2016-05-14 18:32:00,,,,114.0,145.0,,789.0,5,5,May,Saturday,Light,79.03
+179,Cardio,2016-05-13 20:09:00,,,,117.0,148.0,,702.0,5,4,May,Friday,Light,67.16
+180,Cardio,2016-05-13 18:41:00,,,,133.0,171.0,,945.0,5,4,May,Friday,Moderate,72.14
+181,Cardio,2016-05-11 19:50:00,,,,108.0,143.0,,892.0,5,2,May,Wednesday,Very Light,98.32
+182,Cardio,2016-05-09 20:45:00,,,,119.0,178.0,,958.0,5,0,May,Monday,Light,90.06
+183,Running,2016-05-08 19:35:00,8.51,,8.17,153.0,164.0,,1136.0,5,6,May,Sunday,Hard,70.24
+184,Cardio,2016-05-07 19:50:00,,,,104.0,160.0,,803.0,5,5,May,Saturday,Very Light,95.31
+185,Cardio,2016-05-06 19:52:00,,,,106.0,170.0,,1243.0,5,4,May,Friday,Very Light,145.46
+186,Cardio,2016-05-06 19:14:00,,,,126.0,177.0,,233.0,5,4,May,Friday,Light,20.02
+187,Running,2016-05-06 18:30:00,3.91,,8.11,148.0,167.0,,485.0,5,4,May,Friday,Moderate,31.59
+188,Cardio,2016-05-05 20:30:00,,,,116.0,160.0,,1099.0,5,3,May,Thursday,Light,107.38
+189,Cardio,2016-05-04 20:32:00,,,,115.0,172.0,,999.0,5,2,May,Wednesday,Light,99.25
+190,Cardio,2016-05-03 19:49:00,,,,115.0,129.0,,168.0,5,1,May,Tuesday,Light,17.04
+191,Running,2016-05-03 19:12:00,3.26,,8.14,153.0,167.0,,428.0,5,1,May,Tuesday,Hard,26.52
+192,Cardio,2016-05-02 20:23:00,,,,117.0,154.0,,1222.0,5,0,May,Monday,Light,118.21
+193,Cardio,2016-04-30 18:54:00,,,,102.0,149.0,,685.0,4,5,April,Saturday,Very Light,85.23
+194,Cardio,2016-04-28 20:26:00,,,,115.0,154.0,,915.0,4,3,April,Thursday,Light,91.1
+195,Cardio,2016-04-27 20:07:00,,,,111.0,162.0,,930.0,4,2,April,Wednesday,Very Light,99.2
+196,Cardio,2016-04-26 20:28:00,,,,105.0,141.0,,379.0,4,1,April,Tuesday,Very Light,44.48
+197,Running,2016-04-26 19:19:00,3.49,,8.46,152.0,175.0,,483.0,4,1,April,Tuesday,Hard,30.35
+198,Cardio,2016-04-25 20:50:00,,,,122.0,173.0,,1050.0,4,0,April,Monday,Light,94.11
+199,Running,2016-04-24 18:44:00,4.78,105.0,9.47,,,7282.0,636.0,4,6,April,Sunday,Not Recorded,46.44
+200,Cardio,2016-04-23 20:37:00,,,,110.0,151.0,,849.0,4,5,April,Saturday,Very Light,91.42
+201,Cardio,2016-04-23 08:14:00,,,,85.0,119.0,,328.0,4,5,April,Saturday,Very Light,62.57
+202,Running,2016-04-22 19:18:00,4.01,,9.51,137.0,159.0,,532.0,4,4,April,Friday,Moderate,39.3
+203,Cardio,2016-04-20 20:39:00,,,,113.0,176.0,,909.0,4,2,April,Wednesday,Very Light,94.01
+204,Cardio,2016-04-18 21:07:00,,,,100.0,115.0,,59.0,4,0,April,Monday,Very Light,8.01
+205,Cardio,2016-04-18 19:17:00,,,,128.0,177.0,,1288.0,4,0,April,Monday,Light,105.52
+206,Cardio,2016-04-16 20:14:00,,,,112.0,168.0,,1107.0,4,5,April,Saturday,Very Light,116.33
+207,Cardio,2016-04-16 08:20:00,,,,100.0,152.0,,851.0,4,5,April,Saturday,Very Light,112.03
+208,Cardio,2016-04-15 21:07:00,,,,111.0,120.0,,138.0,4,4,April,Friday,Very Light,15.02
+209,Running,2016-04-15 20:49:00,1.47,,8.19,149.0,161.0,,185.0,4,4,April,Friday,Moderate,12.15
+210,Cardio,2016-04-15 20:32:00,,,,117.0,134.0,,153.0,4,4,April,Friday,Light,15.04
+211,Running,2016-04-15 20:18:00,1.45,,8.28,148.0,157.0,,183.0,4,4,April,Friday,Moderate,12.17
+212,Cardio,2016-04-13 20:37:00,,,,100.0,149.0,,856.0,4,2,April,Wednesday,Very Light,111.38
+213,Cardio,2016-04-12 20:11:00,,,,105.0,140.0,,599.0,4,1,April,Tuesday,Very Light,71.38
+214,Cardio,2016-04-12 19:32:00,,,,127.0,138.0,,237.0,4,1,April,Tuesday,Light,20.05
+215,Running,2016-04-12 19:12:00,2.24,,8.4,154.0,170.0,,314.0,4,1,April,Tuesday,Hard,19.27
+216,Cardio,2016-04-12 18:46:00,,,,127.0,164.0,,237.0,4,1,April,Tuesday,Light,20.04
+217,Running,2016-04-12 18:29:00,1.86,,8.54,148.0,167.0,,248.0,4,1,April,Tuesday,Moderate,16.34
+218,Cardio,2016-04-11 21:11:00,,,,124.0,171.0,,1138.0,4,0,April,Monday,Light,98.29
+219,Cardio,2016-04-09 18:07:00,,,,118.0,171.0,,1213.0,4,5,April,Saturday,Light,115.01
+220,Running,2016-04-08 19:38:00,1.43,,10.36,140.0,160.0,,209.0,4,4,April,Friday,Moderate,15.11
+221,Cardio,2016-04-08 19:17:00,,,,89.0,130.0,,87.0,4,4,April,Friday,Very Light,15.05
+222,Running,2016-04-08 19:04:00,1.44,,8.41,152.0,159.0,,195.0,4,4,April,Friday,Hard,12.33
+223,Cardio,2016-04-08 18:47:00,,,,106.0,171.0,,125.0,4,4,April,Friday,Very Light,15.02
+224,Running,2016-04-08 18:34:00,1.42,,9.09,151.0,165.0,,205.0,4,4,April,Friday,Moderate,12.57
+225,Cardio,2016-04-08 18:17:00,,,,119.0,175.0,,157.0,4,4,April,Friday,Light,15.01
+226,Running,2016-04-08 18:02:00,1.54,,9.22,147.0,157.0,,215.0,4,4,April,Friday,Moderate,14.24
+227,Cardio,2016-04-08 17:45:00,,,,94.0,151.0,,99.0,4,4,April,Friday,Very Light,15.03
+228,Cardio,2016-04-07 21:12:00,,,,120.0,163.0,,1202.0,4,3,April,Thursday,Light,109.4
+229,Cardio,2016-04-06 21:34:00,,,,93.0,108.0,,51.0,4,2,April,Wednesday,Very Light,8.04
+230,Cardio,2016-04-06 19:51:00,,,,93.0,137.0,,639.0,4,2,April,Wednesday,Very Light,98.3
+231,Cardio,2016-04-05 20:18:00,,,,114.0,145.0,,577.0,4,1,April,Tuesday,Light,58.55
+232,Strength Training,2016-04-05 18:17:00,,,,120.0,159.0,,884.0,4,1,April,Tuesday,Light,80.53
+233,Cardio,2016-04-03 11:46:00,,,,94.0,142.0,,98.0,4,6,April,Sunday,Very Light,14.58
+234,Strength Training,2016-04-03 09:58:00,,,,83.0,143.0,,526.0,4,6,April,Sunday,Very Light,107.24
+235,Strength Training,2016-03-31 20:16:00,,,,125.0,173.0,,950.0,3,3,March,Thursday,Light,81.34
+236,Strength Training,2016-03-30 19:58:00,,,,110.0,171.0,,743.0,3,2,March,Wednesday,Very Light,80.12
+237,Cardio,2016-03-29 19:29:00,,,,119.0,132.0,,159.0,3,1,March,Tuesday,Light,15.04
+238,Running,2016-03-29 18:55:00,3.83,,8.38,149.0,162.0,,513.0,3,1,March,Tuesday,Moderate,33.02
+239,Strength Training,2016-03-26 16:25:00,,,,120.0,160.0,,904.0,3,5,March,Saturday,Light,83.4
+240,Strength Training,2016-03-25 20:09:00,,,,100.0,151.0,,514.0,3,4,March,Friday,Very Light,67.53
+241,Running,2016-03-25 19:23:00,3.87,,8.53,139.0,158.0,,474.0,3,4,March,Friday,Moderate,34.22
+242,Cardio,2016-03-25 18:48:00,,,,109.0,140.0,,275.0,3,4,March,Friday,Very Light,30.3
+243,Strength Training,2016-03-24 21:02:00,,,,110.0,159.0,,774.0,3,3,March,Thursday,Very Light,83.22
+244,Strength Training,2016-03-23 20:00:00,,,,110.0,148.0,,857.0,3,2,March,Wednesday,Very Light,92.12
+245,Strength Training,2016-03-22 20:06:00,,,,103.0,143.0,,490.0,3,1,March,Tuesday,Very Light,60.09
+246,Cardio,2016-03-22 19:46:00,,,,77.0,81.0,,12.0,3,1,March,Tuesday,Very Light,7.34
+247,Running,2016-03-22 19:33:00,1.24,,9.07,141.0,160.0,,158.0,3,1,March,Tuesday,Moderate,11.19
+248,Cardio,2016-03-22 19:02:00,,,,101.0,148.0,,224.0,3,1,March,Tuesday,Very Light,28.13
+249,Strength Training,2016-03-21 20:04:00,,,,100.0,165.0,,837.0,3,0,March,Monday,Very Light,109.23
+250,Cardio,2016-03-21 10:41:00,,,,127.0,143.0,,236.0,3,0,March,Monday,Light,20.04
+251,Running,2016-03-21 10:30:00,1.17,,9.17,132.0,157.0,,138.0,3,0,March,Monday,Light,10.52
+252,Running,2016-03-20 18:00:00,3.65,36.0,9.03,159.0,180.0,5130.0,481.0,3,6,March,Sunday,Hard,33.04
+253,Strength Training,2016-03-19 20:48:00,,,,115.0,157.0,,1079.0,3,5,March,Saturday,Light,106.49
+254,Running,2016-03-19 18:13:00,1.41,,8.21,138.0,152.0,,156.0,3,5,March,Saturday,Moderate,11.45
+255,Cardio,2016-03-19 17:45:00,,,,125.0,143.0,,233.0,3,5,March,Saturday,Light,20.08
+256,Running,2016-03-19 17:33:00,1.22,,8.18,140.0,155.0,,137.0,3,5,March,Saturday,Moderate,10.08
+257,Cardio,2016-03-19 17:19:00,,,,125.0,136.0,,116.0,3,5,March,Saturday,Light,10.05
+258,Cardio,2016-03-19 17:07:00,,,,115.0,126.0,,98.0,3,5,March,Saturday,Light,10.01
+259,Running,2016-03-19 16:58:00,0.9,,8.27,141.0,158.0,,104.0,3,5,March,Saturday,Moderate,7.38
+260,Cardio,2016-03-19 16:43:00,,,,120.0,131.0,,106.0,3,5,March,Saturday,Light,10.04
+261,Cardio,2016-03-19 16:31:00,,,,100.0,146.0,,73.0,3,5,March,Saturday,Very Light,10.01
+262,Running,2016-03-11 19:06:00,5.32,,16.37,,,8674.0,713.0,3,4,March,Friday,Not Recorded,88.2
+263,Strength Training,2016-03-09 18:17:00,,,,,,,207.0,3,2,March,Wednesday,Not Recorded,90.04
+264,Strength Training,2016-03-08 19:34:00,,,,,,,11.0,3,1,March,Tuesday,Not Recorded,7.45
+265,Strength Training,2016-03-08 19:06:00,,,,,,,39.0,3,1,March,Tuesday,Not Recorded,25.06
+266,Strength Training,2016-03-07 18:10:00,,,,,,,183.0,3,0,March,Monday,Not Recorded,95.0
+267,Running,2016-03-05 06:32:00,6.22,79.0,10.2,,,9916.0,858.0,3,5,March,Saturday,Not Recorded,64.17
+268,Strength Training,2016-03-03 19:34:00,,,,,,,162.0,3,3,March,Thursday,Not Recorded,90.04
+269,Strength Training,2016-03-02 20:23:00,,,,,,,223.0,3,2,March,Wednesday,Not Recorded,111.57
+270,Strength Training,2016-03-01 19:18:00,,,,,,,39.0,3,1,March,Tuesday,Not Recorded,25.02
+271,Strength Training,2016-02-29 20:38:00,,,,,,,201.0,2,0,February,Monday,Not Recorded,108.08
+272,Running,2016-02-28 07:01:00,6.23,52.0,9.36,,,9230.0,827.0,2,6,February,Sunday,Not Recorded,59.47
+273,Strength Training,2016-02-27 12:52:00,,,,,,,268.0,2,5,February,Saturday,Not Recorded,117.43
+274,Cardio,2016-02-26 19:54:00,,,,,,,9.0,2,4,February,Friday,Not Recorded,6.12
+275,Cardio,2016-02-26 19:23:00,,,,,,,38.0,2,4,February,Friday,Not Recorded,25.05
+276,Strength Training,2016-02-25 20:50:00,,,,,,,438.0,2,3,February,Thursday,Not Recorded,240.07
+277,Strength Training,2016-02-24 19:52:00,,,,,,,201.0,2,2,February,Wednesday,Not Recorded,106.42
+278,Cardio,2016-02-23 19:34:00,,,,,,,107.0,2,1,February,Tuesday,Not Recorded,60.06
+279,Strength Training,2016-02-22 20:34:00,,,,,,,169.0,2,0,February,Monday,Not Recorded,90.57
+280,Strength Training,2016-02-20 18:59:00,,,,,,,234.0,2,5,February,Saturday,Not Recorded,106.31
+281,Cardio,2016-02-19 19:06:00,,,,,,,119.0,2,4,February,Friday,Not Recorded,60.06
+282,Strength Training,2016-02-18 19:23:00,,,,,,,182.0,2,3,February,Thursday,Not Recorded,100.34
+283,Strength Training,2016-02-17 19:43:00,,,,,,,230.0,2,2,February,Wednesday,Not Recorded,108.4
+284,Cardio,2016-02-16 19:02:00,,,,,,,132.0,2,1,February,Tuesday,Not Recorded,60.05
+285,Strength Training,2016-02-15 20:10:00,,,,,,,181.0,2,0,February,Monday,Not Recorded,97.03
+286,Running,2016-02-14 18:49:00,2.49,20.0,10.58,,,4078.0,330.0,2,6,February,Sunday,Not Recorded,27.17
+287,Strength Training,2016-02-13 17:03:00,,,,,,,223.0,2,5,February,Saturday,Not Recorded,104.23
+288,Cardio,2016-02-12 09:07:00,,,,,,,15.0,2,4,February,Friday,Not Recorded,10.29
+289,Cardio,2016-02-12 08:54:00,,,,,,,16.0,2,4,February,Friday,Not Recorded,11.2
+290,Cardio,2016-02-12 07:58:00,,,,,,,128.0,2,4,February,Friday,Not Recorded,55.18
+291,Strength Training,2016-02-11 19:43:00,,,,,,,160.0,2,3,February,Thursday,Not Recorded,82.58
+292,Strength Training,2016-02-10 20:15:00,,,,,,,159.0,2,2,February,Wednesday,Not Recorded,79.03
+293,Cardio,2016-02-08 20:29:00,,,,,,,29.0,2,0,February,Monday,Not Recorded,20.05
+294,Running,2016-02-07 06:00:00,13.06,89.0,8.39,,,18064.0,1713.0,2,6,February,Sunday,Not Recorded,112.53
+295,Strength Training,2016-02-05 17:46:00,,,,,,,148.0,2,4,February,Friday,Not Recorded,77.57
+296,Cardio,2016-02-04 19:44:00,,,,,,,13.0,2,3,February,Thursday,Not Recorded,9.2
+297,Strength Training,2016-02-02 08:15:00,,,,,,,182.0,2,1,February,Tuesday,Not Recorded,88.0
+298,Strength Training,2016-02-01 19:53:00,,,,,,,327.0,2,0,February,Monday,Not Recorded,174.13
+299,Strength Training,2016-02-01 09:09:00,,,,,,,91.0,2,0,February,Monday,Not Recorded,34.25
+300,Cardio,2016-02-01 08:47:00,,,,,,,29.0,2,0,February,Monday,Not Recorded,20.02
+301,Running,2016-01-31 07:00:00,6.22,348.0,9.28,,,9180.0,817.0,1,6,January,Sunday,Not Recorded,58.51
+302,Cardio,2016-01-30 19:28:00,,,,,,,100.0,1,5,January,Saturday,Not Recorded,55.13
+303,Cardio,2016-01-30 18:41:00,,,,,,,0.0,1,5,January,Saturday,Not Recorded,20.0
+304,Strength Training,2016-01-28 19:46:00,,,,127.0,167.0,,941.0,1,3,January,Thursday,Light,90.08
+305,Strength Training,2016-01-27 19:33:00,,,,,,,139.0,1,2,January,Wednesday,Not Recorded,68.5
+306,Strength Training,2016-01-23 18:32:00,,,,,,,137.0,1,5,January,Saturday,Not Recorded,73.45
+307,Running,2016-01-17 05:44:00,26.34,256.0,10.4,,,42808.0,3362.0,1,6,January,Sunday,Not Recorded,280.59
+308,Running,2016-01-16 06:55:00,0.94,3.0,10.45,,,1544.0,124.0,1,5,January,Saturday,Not Recorded,10.03
+309,Running,2016-01-13 08:30:00,3.12,39.0,9.35,,,4768.0,413.0,1,2,January,Wednesday,Not Recorded,29.53
+310,Cardio,2016-01-11 20:03:00,,,,,,,0.0,1,0,January,Monday,Not Recorded,40.02
+311,Running,2016-01-10 07:16:00,8.17,85.0,9.3,,,12382.0,1078.0,1,6,January,Sunday,Not Recorded,77.37
+312,Strength Training,2016-01-09 18:05:00,,,,,,,170.0,1,5,January,Saturday,Not Recorded,90.06
+313,Running,2016-01-07 19:49:00,3.18,33.0,9.26,,,4738.0,428.0,1,3,January,Thursday,Not Recorded,30.0
+314,Strength Training,2016-01-06 20:26:00,,,,,,,394.0,1,2,January,Wednesday,Not Recorded,100.12
+315,Strength Training,2016-01-04 19:10:00,,,,,,,60.0,1,0,January,Monday,Not Recorded,40.06
+316,Running,2016-01-04 06:40:00,14.92,138.0,9.49,,,23488.0,1984.0,1,0,January,Monday,Not Recorded,146.23
+317,Running,2016-01-03 06:57:00,7.09,82.0,9.19,,,10680.0,935.0,1,6,January,Sunday,Not Recorded,66.02
+318,Cardio,2016-01-01 21:07:00,,,,,,,2.0,1,4,January,Friday,Not Recorded,1.27
+319,Cardio,2015-12-31 18:17:00,,,,,,,77.0,12,3,December,Thursday,Not Recorded,33.36
+320,Strength Training,2015-12-28 20:12:00,,,,,,,239.0,12,0,December,Monday,Not Recorded,133.36
+321,Strength Training,2015-12-28 18:50:00,,,,,,,59.0,12,0,December,Monday,Not Recorded,40.02
+322,Running,2015-12-27 06:06:00,19.93,689.0,10.24,,,32850.0,2597.0,12,6,December,Sunday,Not Recorded,207.25
+323,Running,2015-12-26 07:06:00,6.22,66.0,9.01,,,9184.0,813.0,12,5,December,Saturday,Not Recorded,56.06
+324,Strength Training,2015-12-24 20:21:00,,,,,,,200.0,12,3,December,Thursday,Not Recorded,107.25
+325,Running,2015-12-20 08:56:00,3.73,33.0,10.28,,,6134.0,498.0,12,6,December,Sunday,Not Recorded,39.03
+326,Running,2015-12-20 06:21:00,14.92,131.0,9.38,,,23270.0,1972.0,12,6,December,Sunday,Not Recorded,143.39
+327,Strength Training,2015-12-18 18:05:00,,,,117.0,154.0,,965.0,12,4,December,Friday,Light,106.17
+328,Running,2015-12-17 20:23:00,0.87,,10.52,145.0,153.0,1428.0,105.0,12,3,December,Thursday,Moderate,9.26
+329,Running,2015-12-17 19:49:00,3.74,13.0,8.23,150.0,162.0,5078.0,402.0,12,3,December,Thursday,Moderate,31.2
+330,Running,2015-12-17 19:34:00,0.94,10.0,9.43,134.0,148.0,1446.0,100.0,12,3,December,Thursday,Moderate,9.1
+331,Strength Training,2015-12-16 20:49:00,,,,,,,162.0,12,2,December,Wednesday,Not Recorded,93.25
+332,Cardio,2015-12-14 21:08:00,,,,,,,25.0,12,0,December,Monday,Not Recorded,17.11
+333,Strength Training,2015-12-14 19:35:00,,,,,,,155.0,12,0,December,Monday,Not Recorded,81.11
+334,Running,2015-12-12 06:30:00,6.34,92.0,8.22,,,8736.0,848.0,12,5,December,Saturday,Not Recorded,53.03
+335,Running,2015-12-10 20:27:00,0.94,,10.55,137.0,146.0,1536.0,108.0,12,3,December,Thursday,Moderate,10.14
+336,Running,2015-12-10 19:30:00,5.6,30.0,8.56,153.0,166.0,8082.0,650.0,12,3,December,Thursday,Hard,50.03
+337,Strength Training,2015-12-09 20:13:00,,,,120.0,160.0,,1053.0,12,2,December,Wednesday,Light,111.11
+338,Strength Training,2015-12-07 19:57:00,,,,112.0,149.0,,999.0,12,0,December,Monday,Very Light,118.04
+339,Running,2015-12-06 05:39:00,13.98,151.0,10.19,,,22796.0,1866.0,12,6,December,Sunday,Not Recorded,144.21
+340,Running,2015-12-05 06:44:00,3.11,36.0,8.45,,,4410.0,408.0,12,5,December,Saturday,Not Recorded,27.12
+341,Running,2015-11-29 07:11:00,13.11,16.0,8.48,,,18708.0,1771.0,11,6,November,Sunday,Not Recorded,115.23
+342,Running,2015-11-26 20:53:00,2.36,,10.24,,,3894.0,312.0,11,3,November,Thursday,Not Recorded,24.35
+343,Cardio,2015-11-25 21:18:00,,,,,,,3.0,11,2,November,Wednesday,Not Recorded,2.37
+344,Cardio,2015-11-25 21:11:00,,,,,,,3.0,11,2,November,Wednesday,Not Recorded,2.07
+345,Cardio,2015-11-25 20:55:00,,,,,,,3.0,11,2,November,Wednesday,Not Recorded,2.07
+346,Treadmill Running,2015-11-24 19:29:00,1.83,,10.08,,,2988.0,246.0,11,1,November,Tuesday,Not Recorded,18.32
+347,Cardio,2015-11-23 22:38:00,,,,,,,36.0,11,0,November,Monday,Not Recorded,24.33
+348,Cardio,2015-11-23 22:10:00,,,,,,,36.0,11,0,November,Monday,Not Recorded,23.39
+349,Strength Training,2015-11-23 20:53:00,,,,,,,138.0,11,0,November,Monday,Not Recorded,71.53
+350,Running,2015-11-22 07:12:00,10.57,98.0,10.22,,,17192.0,1419.0,11,6,November,Sunday,Not Recorded,109.38
+351,Strength Training,2015-11-21 19:11:00,,,,117.0,152.0,,790.0,11,5,November,Saturday,Light,95.33
+352,Strength Training,2015-11-19 20:01:00,,,,115.0,145.0,,754.0,11,3,November,Thursday,Light,84.29
+353,Treadmill Running,2015-11-19 18:50:00,3.4,,10.13,156.0,162.0,5524.0,436.0,11,3,November,Thursday,Hard,34.44
+354,Running,2015-11-18 21:16:00,2.63,,10.43,133.0,147.0,4328.0,328.0,11,2,November,Wednesday,Moderate,28.12
+355,Treadmill Running,2015-11-17 19:37:00,2.62,,12.23,153.0,174.0,4486.0,434.0,11,1,November,Tuesday,Hard,32.27
+356,Treadmill Running,2015-11-16 21:22:00,0.94,,43.37,106.0,124.0,1946.0,317.0,11,0,November,Monday,Very Light,41.03
+357,Strength Training,2015-11-16 19:17:00,,,,116.0,154.0,,1043.0,11,0,November,Monday,Light,115.52
+358,Running,2015-11-15 05:34:00,19.93,121.0,10.3,,,33050.0,2670.0,11,6,November,Sunday,Not Recorded,209.11
+359,Running,2015-11-13 20:42:00,0.24,,17.02,143.0,157.0,404.0,41.0,11,4,November,Friday,Moderate,4.02
+360,Strength Training,2015-11-13 18:23:00,,,,127.0,160.0,,1222.0,11,4,November,Friday,Light,119.37
+361,Strength Training,2015-11-09 20:06:00,,,,113.0,150.0,,975.0,11,0,November,Monday,Very Light,112.24
+362,Running,2015-11-08 05:51:00,18.65,505.0,10.43,,,31532.0,2427.0,11,6,November,Sunday,Not Recorded,199.47
+363,Strength Training,2015-11-04 20:06:00,,,,121.0,157.0,,718.0,11,2,November,Wednesday,Light,74.06
+364,Running,2015-11-04 19:23:00,2.32,,10.36,149.0,160.0,3778.0,317.0,11,2,November,Wednesday,Moderate,24.34
+365,Running,2015-11-03 19:35:00,2.65,,11.35,154.0,173.0,4436.0,354.0,11,1,November,Tuesday,Hard,30.4
+366,Strength Training,2015-11-02 20:07:00,,,,116.0,155.0,,965.0,11,0,November,Monday,Light,107.12
+367,Running,2015-11-01 06:33:00,11.81,125.0,9.55,150.0,162.0,18250.0,1430.0,11,6,November,Sunday,Moderate,117.13
+368,Treadmill Running,2015-10-31 16:30:00,3.34,,10.02,162.0,169.0,5272.0,449.0,10,5,October,Saturday,Hard,33.3
+369,Strength Training,2015-10-31 13:57:00,,,,119.0,157.0,,735.0,10,5,October,Saturday,Light,136.1
+370,Cardio,2015-10-30 19:38:00,,,,99.0,110.0,,142.0,10,4,October,Friday,Very Light,30.16
+371,Strength Training,2015-10-29 20:01:00,,,,99.0,146.0,,389.0,10,3,October,Thursday,Very Light,99.52
+372,Treadmill Running,2015-10-28 21:51:00,2.49,,11.02,152.0,158.0,4220.0,339.0,10,2,October,Wednesday,Hard,27.28
+373,Running,2015-10-25 06:30:00,16.16,144.0,11.01,149.0,164.0,27220.0,1772.0,10,6,October,Sunday,Moderate,178.03
+374,Treadmill Running,2015-10-20 19:26:00,2.64,,13.2,134.0,159.0,4518.0,386.0,10,1,October,Tuesday,Moderate,35.09
+375,Running,2015-10-19 19:28:00,1.03,,0.0,114.0,157.0,2136.0,998.0,10,0,October,Monday,Light,115.19
+376,Running,2015-10-18 18:41:00,14.3,49.0,11.35,142.0,160.0,24364.0,1409.0,10,6,October,Sunday,Moderate,165.39
+377,Running,2015-10-17 12:00:00,1.04,,0.0,114.0,148.0,2162.0,1166.0,10,5,October,Saturday,Light,135.04
+378,Strength Training,2015-10-14 20:01:00,,,,111.0,153.0,,1031.0,10,2,October,Wednesday,Very Light,145.46
+379,Strength Training,2015-10-12 19:55:00,,,,127.0,166.0,,1004.0,10,0,October,Monday,Light,99.26
+380,Running,2015-10-11 18:48:00,0.85,10.0,11.26,124.0,142.0,1392.0,80.0,10,6,October,Sunday,Light,9.42
+381,Running,2015-10-10 12:49:00,0.74,,0.0,114.0,148.0,1542.0,923.0,10,5,October,Saturday,Light,107.42
+382,Running,2015-10-09 17:38:00,3.55,,11.35,149.0,172.0,5944.0,524.0,10,4,October,Friday,Moderate,41.05
+383,Strength Training,2015-10-07 20:33:00,,,,116.0,150.0,,890.0,10,2,October,Wednesday,Light,100.11
+384,Treadmill Running,2015-10-06 19:35:00,2.74,,11.11,160.0,174.0,4550.0,385.0,10,1,October,Tuesday,Hard,30.38
+385,Strength Training,2015-10-05 19:24:00,,,,120.0,156.0,,854.0,10,0,October,Monday,Light,91.21
+386,Running,2015-10-04 19:27:00,8.71,75.0,9.17,,,12788.0,1107.0,10,6,October,Sunday,Not Recorded,80.49
+387,Running,2015-10-04 09:27:00,4.36,39.0,9.59,,,6672.0,579.0,10,6,October,Sunday,Not Recorded,43.29
+388,Strength Training,2015-10-03 14:19:00,,,,111.0,154.0,,1252.0,10,5,October,Saturday,Very Light,172.35
+389,Treadmill Running,2015-10-01 20:59:00,2.66,,12.1,135.0,162.0,4532.0,360.0,10,3,October,Thursday,Moderate,32.24
+390,Treadmill Running,2015-09-29 19:33:00,2.34,,15.27,147.0,177.0,3888.0,426.0,9,1,September,Tuesday,Moderate,36.09
+391,Strength Training,2015-09-28 20:24:00,,,,122.0,159.0,,1053.0,9,0,September,Monday,Light,112.12
+392,Running,2015-09-27 19:11:00,7.46,36.0,11.5,135.0,154.0,12906.0,765.0,9,6,September,Sunday,Moderate,88.19
+393,Treadmill Running,2015-09-26 13:47:00,2.33,,12.25,138.0,163.0,4042.0,331.0,9,5,September,Saturday,Moderate,28.58
+394,Treadmill Running,2015-09-24 19:48:00,3.42,,13.14,127.0,165.0,6050.0,466.0,9,3,September,Thursday,Light,45.18
+395,Treadmill Running,2015-09-23 21:31:00,1.9,,13.02,136.0,155.0,3374.0,263.0,9,2,September,Wednesday,Moderate,24.48
+396,Strength Training,2015-09-23 19:31:00,,,,125.0,160.0,,1108.0,9,2,September,Wednesday,Light,111.51
+397,Treadmill Running,2015-09-22 19:25:00,2.41,,12.17,140.0,170.0,4114.0,347.0,9,1,September,Tuesday,Moderate,29.36
+398,Strength Training,2015-09-12 16:58:00,,,,,,,223.0,9,5,September,Saturday,Not Recorded,112.0
+399,Strength Training,2015-09-07 19:52:00,,,,125.0,158.0,,665.0,9,0,September,Monday,Light,95.34
+400,Strength Training,2015-09-04 21:04:00,,,,124.0,154.0,,354.0,9,4,September,Friday,Light,48.37
+401,Strength Training,2015-09-02 19:32:00,,,,122.0,156.0,,694.0,9,2,September,Wednesday,Light,111.05
+402,Strength Training,2015-08-31 19:21:00,,,,128.0,163.0,,826.0,8,0,August,Monday,Light,121.05
+403,Cardio,2015-08-29 20:41:00,,,,100.0,106.0,,29.0,8,5,August,Saturday,Very Light,5.5
+404,Strength Training,2015-08-29 19:00:00,,,,110.0,154.0,,450.0,8,5,August,Saturday,Very Light,90.34
+405,Strength Training,2015-08-27 18:55:00,,,,124.0,163.0,,730.0,8,3,August,Thursday,Light,115.36
+406,Strength Training,2015-08-24 19:22:00,,,,127.0,163.0,,870.0,8,0,August,Monday,Light,132.22
+407,Strength Training,2015-08-21 19:50:00,,,,123.0,164.0,,740.0,8,4,August,Friday,Light,120.27
+408,Strength Training,2015-08-17 20:06:00,,,,133.0,166.0,,958.0,8,0,August,Monday,Moderate,128.19
+409,Strength Training,2015-08-14 20:04:00,,,,125.0,158.0,,548.0,8,4,August,Friday,Light,76.59
+410,Strength Training,2015-08-12 19:47:00,,,,130.0,167.0,,792.0,8,2,August,Wednesday,Light,111.56
+411,Strength Training,2015-08-10 19:48:00,,,,130.0,159.0,,787.0,8,0,August,Monday,Light,108.54
+412,Strength Training,2015-08-05 19:55:00,,,,125.0,166.0,,756.0,8,2,August,Wednesday,Light,120.21
+413,Strength Training,2015-08-03 19:58:00,,,,126.0,162.0,,711.0,8,0,August,Monday,Light,107.39
+414,Strength Training,2015-07-31 20:25:00,,,,122.0,159.0,,668.0,7,4,July,Friday,Light,107.59
+415,Strength Training,2015-07-29 20:31:00,,,,112.0,154.0,,396.0,7,2,July,Wednesday,Very Light,73.4
+416,Strength Training,2015-07-28 21:58:00,,,,110.0,141.0,,328.0,7,1,July,Tuesday,Very Light,61.54
+417,Running,2015-07-26 19:07:00,6.24,,9.27,156.0,169.0,9112.0,722.0,7,6,July,Sunday,Hard,58.57
+418,Strength Training,2015-07-25 20:28:00,,,,123.0,156.0,,604.0,7,5,July,Saturday,Light,94.14
+419,Strength Training,2015-07-23 19:25:00,,,,117.0,154.0,,641.0,7,3,July,Thursday,Light,114.08
+420,Running,2015-07-22 20:58:00,3.12,,8.41,162.0,179.0,4396.0,358.0,7,2,July,Wednesday,Hard,27.08
+421,Strength Training,2015-07-20 19:38:00,,,,121.0,168.0,,660.0,7,0,July,Monday,Light,108.44
+422,Running,2015-07-19 10:41:00,6.22,,9.3,168.0,177.0,9228.0,846.0,7,6,July,Sunday,Hard,59.03
+423,Running,2015-07-15 20:23:00,3.12,,8.02,166.0,183.0,4032.0,356.0,7,2,July,Wednesday,Hard,25.06
+424,Strength Training,2015-07-13 19:58:00,,,,131.0,172.0,,699.0,7,0,July,Monday,Light,90.29
+425,Running,2015-07-12 18:38:00,6.22,62.0,9.08,134.0,175.0,8846.0,727.0,7,6,July,Sunday,Moderate,56.49
+426,Running,2015-06-11 20:32:00,2.58,73.0,7.51,,,,300.0,6,3,June,Thursday,Not Recorded,20.17
+427,Running,2015-06-07 18:57:00,6.24,177.0,9.1,,,,769.0,6,6,June,Sunday,Not Recorded,57.14
+428,Running,2015-06-04 19:34:00,4.11,108.0,8.01,,,,483.0,6,3,June,Thursday,Not Recorded,32.58
+429,Running,2015-04-26 18:54:00,3.13,94.0,9.42,,,,392.0,4,6,April,Sunday,Not Recorded,30.24
+430,Running,2015-04-05 18:57:00,3.97,117.0,10.42,,,,532.0,4,6,April,Sunday,Not Recorded,42.29
+431,Running,2015-03-29 18:10:00,0.98,50.0,10.26,,,,131.0,3,6,March,Sunday,Not Recorded,10.12
+432,Running,2015-03-22 06:37:00,3.11,186.0,10.46,,,,417.0,3,6,March,Sunday,Not Recorded,33.29
+433,Cardio,2015-02-27 21:00:00,,,,,,,219.0,2,4,February,Friday,Not Recorded,20.0
+434,Running,2015-02-15 07:00:00,3.13,99.0,11.58,,,,424.0,2,6,February,Sunday,Not Recorded,37.29
+435,Running,2015-02-08 06:25:00,8.05,1943.0,10.54,,,,1080.0,2,6,February,Sunday,Not Recorded,87.39
+436,Running,2015-02-07 07:16:00,3.13,88.0,9.01,,,,406.0,2,5,February,Saturday,Not Recorded,28.13
+437,Running,2015-02-01 18:02:00,3.31,107.0,9.48,,,,439.0,2,6,February,Sunday,Not Recorded,32.27
+438,Running,2015-01-26 06:51:00,1.43,183.0,10.38,,,,191.0,1,0,January,Monday,Not Recorded,15.11
+439,Running,2015-01-18 06:07:00,13.42,,8.02,,,,1661.0,1,6,January,Sunday,Not Recorded,107.46
+440,Running,2015-01-11 07:02:00,11.25,330.0,9.54,,,,1478.0,1,6,January,Sunday,Not Recorded,111.21
+441,Running,2014-12-30 12:11:00,3.13,144.0,8.55,,,,400.0,12,1,December,Tuesday,Not Recorded,27.52
+442,Running,2014-12-28 12:06:00,5.22,213.0,9.23,,,,676.0,12,6,December,Sunday,Not Recorded,48.58
+443,Running,2014-12-21 10:47:00,9.33,,10.03,,,,1230.0,12,6,December,Sunday,Not Recorded,93.44
+444,Running,2014-12-14 18:06:00,8.25,,8.29,,,,1040.0,12,6,December,Sunday,Not Recorded,69.59
+445,Running,2014-12-14 06:56:00,2.88,,8.58,,,,369.0,12,6,December,Sunday,Not Recorded,25.5
+446,Running,2014-12-07 06:14:00,13.19,,10.12,,,,1740.0,12,6,December,Sunday,Not Recorded,134.27
+447,Running,2014-11-29 18:30:00,3.66,,12.34,,,,482.0,11,5,November,Saturday,Not Recorded,46.0
+448,Running,2014-11-23 07:11:00,13.3,,8.09,,,,1646.0,11,6,November,Sunday,Not Recorded,108.3
+449,Running,2014-11-18 19:00:00,1.91,,8.07,,,,236.0,11,1,November,Tuesday,Not Recorded,15.32
+450,Running,2014-11-16 11:03:00,8.71,,10.03,,,,1148.0,11,6,November,Sunday,Not Recorded,87.31
+451,Running,2014-11-15 11:54:00,3.13,,8.18,,,,391.0,11,5,November,Saturday,Not Recorded,26.01
+452,Running,2014-11-09 17:34:00,8.73,,9.35,,,,1137.0,11,6,November,Sunday,Not Recorded,83.35
+453,Running,2014-11-09 06:36:00,4.06,,9.59,,,,534.0,11,6,November,Sunday,Not Recorded,40.28
+454,Running,2014-11-08 07:34:00,4.99,,9.25,,,,647.0,11,5,November,Saturday,Not Recorded,46.59
+455,Running,2014-10-19 06:04:00,11.51,,9.22,,,,1546.0,10,6,October,Sunday,Not Recorded,107.52
+456,Running,2014-10-18 07:40:00,4.76,,9.27,,,,640.0,10,5,October,Saturday,Not Recorded,44.57
+457,Running,2014-10-15 18:13:00,2.74,,10.15,,,,375.0,10,2,October,Wednesday,Not Recorded,28.04
+458,Running,2014-10-12 20:05:00,2.25,,14.36,,,,286.0,10,6,October,Sunday,Not Recorded,32.51
+459,Running,2014-10-12 17:53:00,3.73,,9.52,,,,508.0,10,6,October,Sunday,Not Recorded,36.47
+460,Running,2014-10-12 05:52:00,2.18,,9.33,,,,294.0,10,6,October,Sunday,Not Recorded,20.46
+461,Running,2014-10-05 06:02:00,9.66,359.0,9.33,,,,1303.0,10,6,October,Sunday,Not Recorded,92.1
+462,Running,2014-10-01 18:40:00,2.59,119.0,12.32,,,,354.0,10,2,October,Wednesday,Not Recorded,32.3
+463,Running,2014-10-01 18:21:00,0.57,20.0,12.17,,,,75.0,10,2,October,Wednesday,Not Recorded,6.59
+464,Running,2014-09-28 17:36:00,9.34,499.0,12.06,,,,1293.0,9,6,September,Sunday,Not Recorded,113.0
+465,Running,2014-09-07 18:17:00,5.4,314.0,12.22,,,,740.0,9,6,September,Sunday,Not Recorded,66.47
+466,Running,2014-08-02 04:34:00,9.32,633.0,12.07,,,,1290.0,8,5,August,Saturday,Not Recorded,112.54
+467,Running,2014-05-11 05:38:00,13.0,903.0,10.42,,,,1785.0,5,6,May,Sunday,Not Recorded,139.09
+468,Running,2014-04-22 11:00:00,6.65,479.0,11.44,,,,921.0,4,1,April,Tuesday,Not Recorded,77.59
+469,Running,2014-04-13 06:32:00,6.02,276.0,9.24,,,,809.0,4,6,April,Sunday,Not Recorded,56.34
+470,Running,2014-04-12 06:31:00,8.99,432.0,12.33,,,,1227.0,4,5,April,Saturday,Not Recorded,112.55
+471,Running,2014-04-05 06:28:00,13.12,1009.0,13.0,,,,1763.0,4,5,April,Saturday,Not Recorded,170.24
+472,Running,2014-03-29 07:19:00,6.55,355.0,14.13,,,,844.0,3,5,March,Saturday,Not Recorded,93.05
+473,Running,2014-03-29 06:45:00,0.37,19.0,17.21,,,,42.0,3,5,March,Saturday,Not Recorded,6.29
+474,Running,2014-03-16 06:42:00,12.71,399.0,9.05,,,,1695.0,3,6,March,Sunday,Not Recorded,115.31
+475,Running,2014-03-02 07:31:00,8.8,425.0,8.59,,,,1169.0,3,6,March,Sunday,Not Recorded,78.59
+476,Running,2014-01-19 06:18:00,13.42,,9.47,,,,1817.0,1,6,January,Sunday,Not Recorded,131.23
+477,Running,2013-12-15 07:51:00,13.39,755.0,10.07,,,,1824.0,12,6,December,Sunday,Not Recorded,135.26
+478,Running,2013-05-22 18:53:00,3.26,156.0,11.34,,,,449.0,5,2,May,Wednesday,Not Recorded,37.38
+479,Running,2013-05-21 18:38:00,3.29,155.0,11.56,,,,455.0,5,1,May,Tuesday,Not Recorded,39.13
+480,Running,2013-05-14 18:25:00,3.19,,11.34,,,,440.0,5,1,May,Tuesday,Not Recorded,36.56
+481,Running,2013-03-23 17:52:00,6.21,,11.17,,,,855.0,3,5,March,Saturday,Not Recorded,70.08
+482,Running,2013-03-16 19:08:00,0.63,,11.18,,,,87.0,3,5,March,Saturday,Not Recorded,7.07
+483,Running,2013-03-15 18:53:00,3.14,,11.43,,,,433.0,3,4,March,Friday,Not Recorded,36.46
+484,Running,2013-03-13 18:52:00,2.58,,11.41,,,,356.0,3,2,March,Wednesday,Not Recorded,30.11
+485,Running,2013-03-10 17:51:00,6.46,,12.21,,,,884.0,3,6,March,Sunday,Not Recorded,79.47
+486,Running,2013-02-17 07:05:00,6.13,,9.17,,,,818.0,2,6,February,Sunday,Not Recorded,56.55
+487,Running,2012-10-31 07:12:00,3.21,,11.55,,,,419.0,10,2,October,Wednesday,Not Recorded,38.18
+488,Running,2012-10-15 18:10:00,2.51,,13.05,,,,317.0,10,0,October,Monday,Not Recorded,32.53
+489,Running,2012-10-13 17:38:00,3.17,,13.4,,,,392.0,10,5,October,Saturday,Not Recorded,43.21
+490,Cycling,2012-10-12 07:11:00,6.29,,10.4,,,,305.0,10,4,October,Friday,Not Recorded,36.09
+491,Cycling,2012-10-09 17:50:00,7.28,,8.9,,,,354.0,10,1,October,Tuesday,Not Recorded,49.0
+492,Cycling,2012-10-05 17:53:00,7.2,,7.7,,,,352.0,10,4,October,Friday,Not Recorded,56.13
+493,Cycling,2012-09-09 18:17:00,7.16,,7.7,,,,248.0,9,6,September,Sunday,Not Recorded,55.51
