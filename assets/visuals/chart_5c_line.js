@@ -5,7 +5,7 @@
 
     console.log("Building chart 5b");
 
-    var svg = d3.select("#chart_5b_line")
+    var svg = d3.select("#chart_5c_line")
         .append("svg")
         .attr("height", height + margin.top + margin.bottom)
         .attr("width", width + margin.left + margin.right)
@@ -40,7 +40,7 @@
 
     // Import your data file using d3.queue()
     d3.queue()
-        .defer(d3.csv, "vis3.csv", function(d) {
+        .defer(d3.csv, "vis4.csv", function(d) {
             // While we're reading the data in, parse each date
             // into a datetime object so it isn't just a string
             // save it as 'd.datetime'
@@ -52,7 +52,7 @@
             // d.Month = +d.Month;
             d.Month = monthNumber("" + (+d.Month) );
 
-            d.Mileage = +d.totalActMinutes;
+            d.Mileage = +d.Mileage;
             return d;
         })
         .await(ready);
@@ -250,7 +250,7 @@
                     .attr("transform", "translate(" + xPos + "," + yPos + ")");
 
                 // STEP FIVE: Use the datapoint information to fill in the tooltip
-                var htmlstring = d.Year + "-" + monthNames[d.Month.getMonth()] + "-" + d.Mileage + "mins";
+                var htmlstring = d.Year + "-" + monthNames[d.Month.getMonth()] + "-" + d.Mileage + "kms";
                 console.log(htmlstring);
                 d3.select(".tip").select("text").html(htmlstring);
 
@@ -303,7 +303,7 @@
             .attr("y", 6)
             .attr("dy", ".71em")
             .style("text-anchor", "end")
-            .text("Activity Minutes (min)");
+            .text("Kilometers (km)");
 
     }
 })();

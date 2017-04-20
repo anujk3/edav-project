@@ -150,7 +150,7 @@
             .attr("dy", "0.71em")
             .attr("fill", "black")
             .style("text-anchor", "end")
-            .text("Time of the Day");
+            .text("Hour of the Day");
 
         // BUTTON METHOD ONE: Classes
 
